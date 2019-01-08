@@ -1,2 +1,2 @@
-# MyTouchDataSet
-Data set and training sample for project ''MyTouch''
+# PersonalTouchDataSet
+Data set and training sample for project ''PersonalTouch''
